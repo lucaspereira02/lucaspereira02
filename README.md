@@ -24,3 +24,4 @@ Eu tenho 17 anos e Atualmente sou estudante no colégio Cotemig.
 <h3 align="left">Contato:</h3>
 
  <a href="https://www.linkedin.com/in/lucas-pereira-silva-3b796319b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
